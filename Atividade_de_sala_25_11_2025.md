@@ -4,11 +4,24 @@ A Torre de Hanói (ou Torre de Hanoi) foi criada em 1883 pelo matemático franc�
 o pseudônimo N. Claus (de Siam) — um anagrama de Lucas d’Amiens (sua cidade natal).
 O problema apareceu pela primeira vez em um livro de Lucas intitulado “Récréations Mathématiques”.
 
+Junto com o problema, Lucas apresentou uma lenda indiana (provavelmente inventada por ele mesmo) para dar um toque místico ao desafio:
+
+Em um templo na cidade sagrada de Benares (Varanasi, Índia), monges recebem de Brahma um conjunto de 64 discos de ouro empilhados em uma das três agulhas de diamante. A cada segundo, eles movem um disco — sempre obedecendo às regras:
+
+Apenas um disco pode ser movido por vez;
+Nenhum disco pode ficar sobre um menor.
+Quando todos os 64 discos forem movidos da primeira à terceira haste, o mundo chegará ao fim.
+
 [ M(n) = 2^n - 1 ]
 
 Para 7 discos, o número de movimentos seria:
 
 [ M(7) = 2^{7} - 1 = 127 ]
+
+
+
+
+
 
 2) Quais são os princiapis métodos em Java de listas e filas?
 
